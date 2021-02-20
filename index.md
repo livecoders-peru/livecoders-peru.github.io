@@ -48,7 +48,7 @@ github_username:  livecoders-peru # your github username
 
 ### Siéntete libre de compartir tu trabajo y tus dudas en nuestro **[grupo de Telegram](https://t.me/livecodersperu)**.
 
-### Si quieres curiosear más, te recomendamos revisar esta **[lista de lenguajes y entornos para hacer live-coding](https://github.com/toplap/awesome-livecoding)**.  
+### Si quieres curiosear más, te recomendamos revisar esta **[lista de lenguajes y herramientas para hacer live-coding](https://github.com/toplap/awesome-livecoding)**.  
 
 ###
 
