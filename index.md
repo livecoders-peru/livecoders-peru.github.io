@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Comunidad de Live Coders - Perú
 banner_subtitle: https://t.me/livecodersperu
-background_image: /images/IMG_0420.jpeg
+background_image: /images/IMG_0419.jpeg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 
