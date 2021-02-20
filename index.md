@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Comunidad de Live Coders - Perú
-banner_subtitle: https://t.me/livecodersperu
+banner_subtitle: [Link al Grupo de Telegram](https://t.me/livecodersperu)
 background_image: /images/IMG_0419.jpeg
 
 # all of the following variables are optional -----------------
@@ -44,11 +44,11 @@ github_username:  livecoders-peru # your github username
 [//]: # (write a bit about yourself here)
 ### ¿Qué es la **Comunidad de Live Coders** del Perú?  
 
-### Somos un grupo abierto para aprender y compartir. Trabajamos desde la música, los visuales y la tecnología.   
+### Somos un grupo abierto para aprender y compartir. Trabajamos desde la **música, los visuales y la tecnología**.   
   
-Esperamos ser un nodo internacional de TOPLAP y organizar eventos descentralizados a partir de convocatorias abiertas.
+### Esperamos ser un nodo internacional de TOPLAP y organizar eventos descentralizados a partir de **convocatorias abiertas**.
 
-Siéntete libre de unirte a nuestro grupo de Telegram y compartir tu trabajo, o tus dudas. https://t.me/livecodersperu
+### Siéntete libre de unirte a nuestro grupo de Telegram y compartir tu trabajo o tus dudas. [https://t.me/livecodersperu](https://t.me/livecodersperu)
 
   
 
