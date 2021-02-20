@@ -47,6 +47,9 @@ github_username:  livecoders-peru # your github username
 ### Somos un grupo abierto para aprender y compartir. Trabajamos desde la música, los visuales y la tecnología.   
   
 Esperamos ser un nodo internacional de TOPLAP y organizar eventos descentralizados a partir de convocatorias abiertas.
+
+Siéntete libre de unirte a nuestro grupo de Telegram y compartir tu trabajo, o tus dudas. https://t.me/livecodersperu
+
   
 
 Compartimos el código de convivencia de https://activismofeministadigital.org/actividades/codigo-de-conducta/ :
