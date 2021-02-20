@@ -48,9 +48,9 @@ github_username:  livecoders-peru # your github username
   
 ### Esperamos ser un nodo internacional de TOPLAP y organizar eventos descentralizados a partir de **convocatorias abiertas**.
 
-### Siéntete libre de unirte a nuestro grupo de Telegram y compartir tu trabajo o tus dudas. [https://t.me/livecodersperu](https://t.me/livecodersperu)
+### Siéntete libre de compartir tu trabajo y tus dudas en nuestro [grupo de Telegram](https://t.me/livecodersperu).
 
-  
+### Si quieres curiosear más, te recomendamos revisar esta [lista de lenguajes y entornos para hacer live-coding](https://github.com/toplap/awesome-livecoding).  
 
 Compartimos el código de convivencia de [Fundación Activismo Feminista Digital](https://activismofeministadigital.org/actividades/codigo-de-conducta/) :
 
