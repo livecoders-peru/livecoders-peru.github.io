@@ -5,7 +5,7 @@ layout: hello-default
 
 # these variables are required -------------------------------
 banner_title: Comunidad de Live Coders - Perú
-banner_subtitle: [Link al Grupo de Telegram](https://t.me/livecodersperu)
+banner_subtitle: Espacio abierto de aprendizaje e intercambio.
 background_image: /images/IMG_0419.jpeg
 
 # all of the following variables are optional -----------------
