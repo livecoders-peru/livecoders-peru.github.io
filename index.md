@@ -52,7 +52,7 @@ github_username:  livecoders-peru # your github username
 
   
 
-Compartimos el código de convivencia de https://activismofeministadigital.org/actividades/codigo-de-conducta/ :
+Compartimos el código de convivencia de [Fundación Activismo Feminista Digital](https://activismofeministadigital.org/actividades/codigo-de-conducta/) :
 
 #FemCódigo
 CODIGO DE CONDUCTA PARA COMPARTIR, DEBATIR Y EXPRESARNOS EN UN ESPACIO SEGURO:
