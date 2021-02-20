@@ -42,7 +42,7 @@ github_username:  livecoders-peru # your github username
 
 ---			
 [//]: # (write a bit about yourself here)
-### ¿Qué es la **Comunidad de Live Coders** - Perú?  
+### ¿Qué es la **Comunidad de Live Coders - Perú**?  
 
 ### Somos un grupo abierto para aprender y compartir. Trabajamos desde la **música, los visuales y la tecnología**.   
   
