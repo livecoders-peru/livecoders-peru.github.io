@@ -44,9 +44,7 @@ github_username:  livecoders-peru # your github username
 [//]: # (write a bit about yourself here)
 ### ¿Qué es la **Comunidad de Live Coders - Perú**?  
 
-### Somos un grupo abierto para aprender y compartir. Trabajamos desde la **música, los visuales y la tecnología**.   
-  
-### Esperamos ser un nodo internacional de TOPLAP y organizar eventos descentralizados a partir de **convocatorias abiertas**.
+### Somos un grupo abierto para aprender y compartir. Trabajamos desde la **música, los visuales y la tecnología**. Esperamos ser un nodo internacional de TOPLAP y organizar eventos descentralizados a partir de **convocatorias abiertas**.
 
 ### Siéntete libre de compartir tu trabajo y tus dudas en nuestro **[grupo de Telegram](https://t.me/livecodersperu)**.
 
