@@ -54,7 +54,7 @@ github_username:  livecoders-peru # your github username
 
 ###
 
-[Código de Convivencia](https://livecoders-peru.github.io/convivencia.md) :
+[Código de Convivencia](https://github.com/livecoders-peru/livecoders-peru.github.io/blob/master/convivencia.md) 
 
 ###
 
